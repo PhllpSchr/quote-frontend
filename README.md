@@ -1,1 +1,1 @@
-This is the frontend app
+This is the frontend
